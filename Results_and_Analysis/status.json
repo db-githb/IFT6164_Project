@@ -1,0 +1,1 @@
+{"dist_type": "wasserstein", "ref_type": "avg", "attack_type": "subs_fgsm_01", "strict": false}
