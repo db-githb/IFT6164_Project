@@ -1,3 +1,7 @@
+<p>
+    <img src="images/Slide1.png" width="220" height="240" />
+</p>
+
 ![Slide X](./images/Slide1.png)
 ![Slide X](./images/Slide2.png)
 ![Slide X](./images/Slide3.png)
