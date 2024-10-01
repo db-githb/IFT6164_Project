@@ -1,5 +1,4 @@
-
-![image](./images/Slide1.png)
+![image](https://github.com/db-githb/Comp371_Project/blob/model_loading/screencap.PNG)
 ![image](./images/Slide2.png)
 ![image](./images/Slide3.png)
 ![image](./images/Slide4.png)
