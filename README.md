@@ -1,7 +1,7 @@
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide1.PNG)
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide2.PNG)
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide3.PNG)
-![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide4.PNG)
+![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/f29208e0db762d72671e15a2524445835eb2c951/images/Slide4.PNG)
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide5.PNG)
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide6.PNG)
 ![image](https://github.com/db-githb/Latent_Space_and_GAN_Security_IFT6164_Project/blob/6f72c4fd625e8826d57675f0484e3dd1a063de9d/images/Slide7.PNG)
